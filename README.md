@@ -1,1 +1,3 @@
 # nodeBlog
+
+* npx express-generator
